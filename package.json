@@ -1,0 +1,26 @@
+{
+  "name": "node-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perz1val-git/node-template.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perz1val-git/node-template/issues"
+  },
+  "homepage": "https://github.com/perz1val-git/node-template#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "request": "^2.88.2",
+    "vhost": "^3.0.2"
+  }
+}
